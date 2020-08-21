@@ -1,0 +1,38 @@
+# flutter_boom_app
+
+#### 介绍
+一个flutter开发的社群教育类的app
+
+#### 软件架构
+
+包括了用户、文章系统、课程观看、职业推荐等模块。
+还有一些模块没有完全完善。可以供学习使用。
+
+包括android和ios版本 ios版本因为我的网络问题现在无法正常打包。有兴趣的童鞋可以自行打包运行。
+
+#### 一些页面
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/121117_1878cb8d_453125.jpeg "WechatIMG21.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120739_9eb39e58_453125.jpeg "WechatIMG22.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120828_79e48a45_453125.jpeg "WechatIMG23.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120853_d337ad95_453125.jpeg "WechatIMG24.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120907_1dc76f08_453125.jpeg "WechatIMG25.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120917_0dd8952f_453125.jpeg "WechatIMG26.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120929_74a13965_453125.jpeg "WechatIMG27.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120940_3a86e9b3_453125.jpeg "WechatIMG28.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120951_75dd8e15_453125.jpeg "WechatIMG29.jpeg")
+
+#### 安装教程
+
+Android版本
+
+![下载二维码](https://images.gitee.com/uploads/images/2020/0416/121439_6bbbcb5d_453125.jpeg "1587010435770.jpg")
+
+密码：123456
+
+#### 参与贡献
+
+1.文景睿
+2.大黄
+3.胡老
+4.网络框架dio包借鉴了flutter_deer的项目
