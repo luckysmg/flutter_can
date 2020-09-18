@@ -27,13 +27,6 @@
 |  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120853_d337ad95_453125.jpeg "WechatIMG24.jpeg")  |  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0417/092226_2f4277f8_453125.jpeg "WechatIMG16.jpeg")  |  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120917_0dd8952f_453125.jpeg "WechatIMG26.jpeg")  |
 |  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120929_74a13965_453125.jpeg "WechatIMG27.jpeg")  |  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0416/120940_3a86e9b3_453125.jpeg "WechatIMG28.jpeg")  |  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0417/092308_63c7cfb9_453125.jpeg "WechatIMG14.jpeg")  |
 
-#### 安装教程
-
-Android版本
-
-![下载二维码](https://images.gitee.com/uploads/images/2020/0416/121439_6bbbcb5d_453125.jpeg "1587010435770.jpg")
-
-密码：123456
 
 #### 参与贡献
 
